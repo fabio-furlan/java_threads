@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\furla\OneDrive\Área de Trabalho\Projeto Alura\thread2\.metadata\.plugins\org.eclipse.jdt.core
+1246470834.index
+175897115.index
+1865797976.index
